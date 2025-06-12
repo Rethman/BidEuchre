@@ -1,12 +1,12 @@
-{
-  "project": "BidEuchre",
-  "plugins": [
-    {
-      "id": "BidEuchre",
-      "title": "BidEuchre",
-      "environments": ["edit"],
-      "url": "/tools/sidekick/library.html",
-      "includePaths": ["**.docx**"]
-    }
-  ]
-}
+// {
+//   "project": "BidEuchre",
+//   "plugins": [
+//     {
+//       "id": "BidEuchre",
+//       "title": "BidEuchre",
+//       "environments": ["edit"],
+//       "url": "/tools/sidekick/library.html",
+//       "includePaths": ["**.docx**"]
+//     }
+//   ]
+// }
