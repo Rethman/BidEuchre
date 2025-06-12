@@ -1,9 +1,9 @@
 {
-  "project": "Example",
+  "project": "BidEuchre",
   "plugins": [
     {
-      "id": "library",
-      "title": "Library",
+      "id": "BidEuchre",
+      "title": "BidEuchre",
       "environments": ["edit"],
       "url": "/tools/sidekick/library.html",
       "includePaths": ["**.docx**"]
